@@ -17,6 +17,5 @@
     "break",
     "colors",
   ],
-  "logo":"~/.config/fastfetch/cat",
-
+  "logo": "~/.config/fastfetch/cat.txt",
 }
