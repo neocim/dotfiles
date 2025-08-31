@@ -6,6 +6,16 @@
     "os",
     "kernel",
     "uptime",
+    {
+      "type": "datetime",
+      "key": "Date",
+      "format": "{11}-{4}-{1}"
+    },
+    {
+      "type": "datetime",
+      "key": "Current time",
+      "format": "{13}:{18}:{20}"
+    },
     "packages",
     "de",
     "wm",
@@ -17,5 +27,5 @@
     "break",
     "colors",
   ],
-  "logo": "~/.config/fastfetch/cat.txt",
+  "logo":"~/.config/fastfetch/cat",
 }
